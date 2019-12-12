@@ -81,5 +81,4 @@ gulp.task('webfont', function (cb) {
 });
 
 
-gulp.task('default', ['optimize', 'webfont'], function (){
-});
+gulp.task('default', gulp.parallel('optimize', 'webfont'));

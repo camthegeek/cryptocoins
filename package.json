@@ -1,6 +1,6 @@
 {
   "name": "cryptocoins-icons",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "Cryptocoins is the most complete free vector/webfont iconpack of your favourite cryptocurrencies",
   "keywords": [
     "cryptocurrency",
@@ -13,10 +13,10 @@
     "icon"
   ],
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-iconfont": "^8.0.1",
-    "gulp-iconfont-css": "https://github.com/bradrisse/gulp-iconfont-css.git",
-    "gulp-svgmin": "^1.2.4",
+    "gulp-iconfont-css": "https://github.com/backflip/gulp-iconfont-css.git",
+    "gulp-svgmin": "^2.2.0",
     "pump": "^1.0.2"
   },
   "repository": {
